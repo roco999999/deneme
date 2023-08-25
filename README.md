@@ -1,3 +1,3 @@
-# deneme 
-hi guys bro
+# Colab project  
+ audio-classification with python
 
